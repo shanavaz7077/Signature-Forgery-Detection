@@ -44,7 +44,6 @@ This project focuses on detecting forged signatures using advanced preprocessing
   - [Evaluation Metrics](#evaluation-metrics)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -160,11 +159,3 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-## Acknowledgments
-
-This project is inspired by the paper _"A Framework for Offline Signature Forgery Detection Using CNN"_. Special thanks to the authors for their insights and methodologies that contributed to this implementation.
-
----
-
-Feel free to modify the README to include specific details, such as links to datasets or GitHub repositories!
