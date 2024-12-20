@@ -1,7 +1,3 @@
-Here's a detailed README for your project:
-
----
-
 # Signature Forgery Detection Using CNN
 
 ## Overview
